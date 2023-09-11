@@ -1,6 +1,6 @@
 # Screenshot
 
-![Screenshot](https://github.com/Lezgend/dotfiles/blob/main/screenshot/Screenshot.png?raw=true)
+![Screenshot](https://github.com/Lezgend/dotfiles/blob/main/screenshot/Screenshot.png)
 
 ## Installation
 
