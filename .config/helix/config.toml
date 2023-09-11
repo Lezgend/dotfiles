@@ -1,0 +1,18 @@
+theme = "catppuccin_macchiato"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.lsp]
+display-inlay-hints = true
+
+[editor.statusline]
+separator = "|"
+
+[keys.normal]
+del = "delete_selection"
+C-a = "select_all"
+C-c = ":clipboard-yank"
+C-o = ":open ~/.config/helix/config.toml"
